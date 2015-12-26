@@ -2,6 +2,12 @@
 
 *For non commercial use only*
 
+Made in love with [Mapbox Studio Classic](https://www.mapbox.com/mapbox-studio-classic/#darwin)
+
+
+More details in map coming soon.
+
+
 Data source -> http://www.cartographersguild.com/showthread.php?t=30472
 ```
 Here is Westeros and Essos as vectorbased Shapefiles (.shp), made by me with QGIS.
