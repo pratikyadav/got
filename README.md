@@ -1,4 +1,4 @@
-# Game of Thrones Mordern Theme Map
+# Game of Thrones Modern Theme Map
 
 *For non commercial use only*
 
