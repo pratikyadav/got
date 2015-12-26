@@ -5,6 +5,8 @@
 Made in love with [Mapbox Studio Classic](https://www.mapbox.com/mapbox-studio-classic/#darwin)
 
 
+![giphy 66](https://cloud.githubusercontent.com/assets/12744420/12006036/7345ba4c-abe9-11e5-96c7-49a6b7ad0f9a.gif)
+
 More details in map coming soon.
 
 
