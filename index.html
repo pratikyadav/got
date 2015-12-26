@@ -45,6 +45,16 @@ var map = L.mapbox.map('map', 'pratikyadav.99672395', {
     minZoom: 5
 });
 
+
+L.control.layers({
+    'GOT Modern': L.mapbox.tileLayer('pratikyadav.99672395').addTo(map),
+    'GOT Classic': L.mapbox.tileLayer('pratikyadav.8537ca41')
+}, {
+    //'Bike Stations': L.mapbox.tileLayer('examples.bike-locations'),
+    //'Bike Lanes': L.mapbox.tileLayer('examples.bike-lanes')
+}).addTo(map);
+
+
 // zoom the map to that bounding box
 map.fitBounds(bounds);
 </script>
